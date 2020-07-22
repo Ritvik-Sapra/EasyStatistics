@@ -1,0 +1,10 @@
+setup.py
+EasyStatistics/Binomialdistribution.py
+EasyStatistics/Gaussiandistribution.py
+EasyStatistics/Generaldistribution.py
+EasyStatistics/__init__.py
+EasyStatistics.egg-info/PKG-INFO
+EasyStatistics.egg-info/SOURCES.txt
+EasyStatistics.egg-info/dependency_links.txt
+EasyStatistics.egg-info/not-zip-safe
+EasyStatistics.egg-info/top_level.txt
