@@ -69,7 +69,10 @@ Properties and size changes.
 However, using this lbrary, any instances of Binomial can be added together
 as simply as B! + B2, where B1 and B2 are the Binomial objects.
 
-```B1 + B2```
+```B_result = B1 + B2```
+
+This will create a resulting new object **B_result**, which will have the
+necessary properties.
 
 ## Viewing Objects
 
