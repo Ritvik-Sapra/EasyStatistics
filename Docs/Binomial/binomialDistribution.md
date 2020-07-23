@@ -1,5 +1,7 @@
 # Binomial distribution
 
+![Binomial Distribution](../images/binomialDistribution.png)
+
 Binomial distribution is an important type when we work with data in Statistics.
 
 With this class, we can easily and quickly make objects of binomial distirubtion.

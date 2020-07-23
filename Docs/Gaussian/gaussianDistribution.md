@@ -1,5 +1,7 @@
 # Gaussian Distribution
 
+![Gaussian Distribution](../images/gaussianDistribution.png)
+
 Gaussian distribution (a.k.a normal distribution) is rather the most used
 and important type of distribution used in statistics. Most of the data are
 represented in this form and it follows certain important rules.
