@@ -31,7 +31,7 @@ For Binomial, type: ```from EasyStatistics import Binomial```
 ## Contributing
 
 This project's lifeline will be open source contribution. Open issues for enhancing the package or certain bugs that you might find.
-Read further information in Contributing.md file
+Read further information in [CONTRIBUTING.md](Docs/CONTRIBUTING.md) file
 
 ## Version history
 
