@@ -15,3 +15,7 @@ We can simply add and combine two normal distributions by simple adding them
 with **+** operator.
 
 We can also calculate mean, standard deviation and do many other things.
+
+**[Next steps](gaussianMethods.md)**
+
+**[Read about the Binomial class](../Binomial/binomialDistribution.md)**

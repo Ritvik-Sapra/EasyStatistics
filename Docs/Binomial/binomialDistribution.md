@@ -18,3 +18,7 @@ Two Binomial objects can simply be added and combined together as simply as:
 ```B1 + B2```
 
 Where B1 and B2 are the two Binomial objects.
+
+**[Next steps](binomialMethods.md)**
+
+**[Read about the Gaussian class](../Gaussian/gaussianDistribution.md)**
