@@ -16,9 +16,22 @@ Currently, this package has two main classes namely: [Gaussian](Docs/Gaussian/ga
 5. Add Gaussian or Binomial instances simply using the + operator.
 6. Easy format for viewing details of an instance.
 
+[Start reading documentation.](Docs/Gaussian/gaussianDistribution.md)
+
 ## Installation
 
-Type ```pip install EasyStatistics``` in your terminal. The package will be installed and you will be able to use it.
+Type ```pip install EasyStatistics``` in your terminal. The package will be
+installed and you will be able to use it.
+
+----
+
+> **NOTE**
+> This package can be installed with later versions of pip. It contains .whl
+> file. If you run into an error while ```pip install EasyStatistics```, just
+> update the pip and try again. It will work fine.
+l
+
+----
 
 ## Importing package
 
