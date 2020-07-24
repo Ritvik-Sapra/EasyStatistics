@@ -78,3 +78,5 @@ necessary properties.
 
 To quickly view the object details, just type *object* in the IPython and its
 important details will be made visible.
+
+### [Read about the Gaussian class](../Gaussian/gaussianDistribution.md)

@@ -76,3 +76,5 @@ This creates a new object *G_result* with resulting properties.
 
 The necessary details of a gaussian object can be viewed by simply typing
 G1 in IPythn shell, and all the important details will be displayed.
+
+### [Read about the Binomial class](../Binomial/binomialDistribution.md)
