@@ -16,6 +16,6 @@ with **+** operator.
 
 We can also calculate mean, standard deviation and do many other things.
 
-**[Next steps](gaussianMethods.md)**
+### Next steps: [Learn about Gaussian functions and methods](gaussianMethods.md)
 
-**[Read about the Binomial class](../Binomial/binomialDistribution.md)**
+### [Read about the Binomial class](../Binomial/binomialDistribution.md)

@@ -19,6 +19,6 @@ Two Binomial objects can simply be added and combined together as simply as:
 
 Where B1 and B2 are the two Binomial objects.
 
-**[Next steps](binomialMethods.md)**
+### Next steps: [Learn about Binomial functions and methods](binomialMethods.md)
 
-**[Read about the Gaussian class](../Gaussian/gaussianDistribution.md)**
+### [Read about the Gaussian class](../Gaussian/gaussianDistribution.md)
